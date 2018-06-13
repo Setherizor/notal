@@ -21,11 +21,6 @@
     "aliases",
     "commands"
   ],
-  "author": {
-    "name": "Seth Parrish",
-    "email": "me@sethp.cc",
-    "url": "https://sethp.cc"
-  },
   "dependencies": {
     "chalk": "^2.4.1",
     "cliui": "^4.1.0",
@@ -39,5 +34,12 @@
     "ava": "^0.25.0",
     "xo": "^0.21.1"
   },
+  "author": {
+    "name": "Seth Parrish",
+    "email": "me@sethp.cc",
+    "url": "https://sethp.cc"
+  },
+  "repository": "https://github.com/Setherizor/notal",
+  "homepage": "https://github.com/Setherizor/notal/blob/master/readme.md",
   "license": "MIT"
 }
