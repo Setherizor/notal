@@ -1,0 +1,43 @@
+{
+  "name": "notal",
+  "version": "0.1.4",
+  "preferGlobal": true,
+  "description": "A package to keeping notes on your commands",
+  "main": "index.js",
+  "bin": {
+    "notal": "./index.js"
+  },
+  "scripts": {
+    "test": "xo --prettier && ava --verbose",
+    "x": "xo --fix --prettier"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false
+  },
+  "keywords": [
+    "notes",
+    "command",
+    "aliases",
+    "commands"
+  ],
+  "author": {
+    "name": "Seth Parrish",
+    "email": "me@sethp.cc",
+    "url": "https://sethp.cc"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cliui": "^4.1.0",
+    "commander": "^2.15.1",
+    "configstore": "^3.1.2",
+    "inquirer": "^6.0.0",
+    "last-line": "0.0.3",
+    "node-run-cmd": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.21.1"
+  },
+  "license": "MIT"
+}
