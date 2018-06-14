@@ -3,8 +3,6 @@ const chalk = require('chalk') // https://www.npmjs.com/package/chalk
 const program = require('commander') // https://www.npmjs.com/package/commander
 const commmands = require('./lib/commands')
 
-
-
 // https://www.npmjs.com/package/cliui
 // https://www.npmjs.com/package/last-line
 // https://www.npmjs.com/package/read-last-lines
