@@ -23,6 +23,7 @@ commmands.forEach(c => {
     .action(c.action)
 })
 
+
 program.parse(process.argv)
 
 if (!process.argv.slice(2).length === true) {
