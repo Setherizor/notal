@@ -1,6 +1,6 @@
 {
   "name": "notal",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "preferGlobal": true,
   "description": "A package to keeping notes on your commands",
   "main": "index.js",
