@@ -6,10 +6,10 @@
 > Package for memorizing and aliasing commands 💖💻💻💖
 
 ## Install
-![npm install -g notal](./pics/installNotal.png)
+<img src="./pics/notal-install.png" width="45%" height="45%"/> 
 
 ## Examples
-![notal --help](./pics/notalHelp.png)
+<img src="./pics/notal-help.png" width="45%" height="45%"/> 
 
 ## API
 ```
